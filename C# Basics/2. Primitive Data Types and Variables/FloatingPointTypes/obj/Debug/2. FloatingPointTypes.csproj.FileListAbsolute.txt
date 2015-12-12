@@ -1,0 +1,4 @@
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\FloatingPointTypes\bin\Debug\FloatingPointTypes.exe
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\FloatingPointTypes\bin\Debug\FloatingPointTypes.pdb
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\FloatingPointTypes\obj\Debug\FloatingPointTypes.exe
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\FloatingPointTypes\obj\Debug\FloatingPointTypes.pdb

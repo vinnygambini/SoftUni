@@ -1,0 +1,6 @@
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\12-BinaryRepresentation\bin\Debug\12-BinaryRepresentation.exe.config
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\12-BinaryRepresentation\bin\Debug\12-BinaryRepresentation.exe
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\12-BinaryRepresentation\bin\Debug\12-BinaryRepresentation.pdb
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\12-BinaryRepresentation\obj\Debug\12-BitChange.csprojResolveAssemblyReference.cache
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\12-BinaryRepresentation\obj\Debug\12-BinaryRepresentation.exe
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\12-BinaryRepresentation\obj\Debug\12-BinaryRepresentation.pdb

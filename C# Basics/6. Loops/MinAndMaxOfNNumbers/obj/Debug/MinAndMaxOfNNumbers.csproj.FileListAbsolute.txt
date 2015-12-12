@@ -1,0 +1,5 @@
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\MinAndMaxOfNNumbers\bin\Debug\MinAndMaxOfNNumbers.exe.config
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\MinAndMaxOfNNumbers\bin\Debug\MinAndMaxOfNNumbers.exe
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\MinAndMaxOfNNumbers\bin\Debug\MinAndMaxOfNNumbers.pdb
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\MinAndMaxOfNNumbers\obj\Debug\MinAndMaxOfNNumbers.exe
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\MinAndMaxOfNNumbers\obj\Debug\MinAndMaxOfNNumbers.pdb

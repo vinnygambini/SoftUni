@@ -1,0 +1,6 @@
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\SumOfIntegers\obj\Debug\1.SumOfIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\SumOfIntegers\bin\Debug\SumOfIntegers.exe.config
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\SumOfIntegers\bin\Debug\SumOfIntegers.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\SumOfIntegers\bin\Debug\SumOfIntegers.pdb
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\SumOfIntegers\obj\Debug\SumOfIntegers.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\SumOfIntegers\obj\Debug\SumOfIntegers.pdb

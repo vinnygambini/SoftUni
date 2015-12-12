@@ -1,0 +1,7 @@
+D:\Visual studio 2013 projects\Loops\AdvancedTopics\2. PrimeChecker\bin\Debug\_2.PrimeChecker.exe
+D:\Visual studio 2013 projects\Loops\AdvancedTopics\2. PrimeChecker\bin\Debug\_2.PrimeChecker.pdb
+D:\Visual studio 2013 projects\Loops\AdvancedTopics\2. PrimeChecker\obj\Debug\_2.PrimeChecker.exe
+D:\Visual studio 2013 projects\Loops\AdvancedTopics\2. PrimeChecker\obj\Debug\_2.PrimeChecker.pdb
+D:\Visual studio 2013 projects\Loops\AdvancedTopics\2. PrimeChecker\obj\Debug\2. PrimeChecker.csprojResolveAssemblyReference.cache
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\2. PrimeChecker\obj\Debug\_2.PrimeChecker.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\2. PrimeChecker\obj\Debug\_2.PrimeChecker.pdb

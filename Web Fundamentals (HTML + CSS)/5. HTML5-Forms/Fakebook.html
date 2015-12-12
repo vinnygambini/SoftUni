@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 4. Fakebook Register Form</title>
+    <meta charset="utf-8" />
+    <link href="styles/Fakebook.css" rel="stylesheet" />
+</head>
+
+<body>
+<form>
+    <h1>fakebook</h1>
+    <h3>Registration</h3>
+    <h5>It is safe and it will always be!</h5>
+
+    <fieldset class="fieldset-width-30">
+        <legend>None-Important Information</legend>
+        <input type="text" id="first-name-textbox" placeholder="First Name" />
+        <input type="text" id="last-name-textbox" placeholder="Last Name" />
+        <input type="email" id="email-textbox" placeholder="Your Email" required />
+        <input type="text" id="phone-number-textbox" placeholder="Phone Number" />
+        <input type="password" id="password-textbox" placeholder="Your Password" />
+        <input type="text" id="website-textbox" placeholder="Website" required pattern="https?://.+" />
+        <label for="birthday-textbox" class="birthday">Birthday</label>
+        <input type="datetime-local" name="birthday-textbox" placeholder="yyyy-MM-ddThh:mm" />
+        <p>
+            <input type="radio" name="female-radiobox" value="female" />
+            <label for="female-radiobox">Female</label>
+            <input type="radio" name="male-radiobox" value="male" />
+            <label for="male-radiobox">Male</label>
+            <input type="radio" name="other-radiobox" value="other" />
+            <label for="other-radiobox">Other</label>
+        </p>
+
+    </fieldset>
+
+    <fieldset class="fieldset-width-70">
+        <legend>Important Information</legend>
+        <p>
+            <select name="country" autofocus required>
+                <option value="none" selected="selected">Country</option>
+                <option value="bg">Bulgaria</option>
+                <option value="rs">Russia</option>
+                <option value="hl">Holland</option>
+                <option value="es">Espania</option>
+            </select>
+            <input type="text" id="last-name-textbox" placeholder="Last Name" />
+            <input type="text" id="distinct-textbox" placeholder="Distinct" />
+        </p>
+        <p>
+            <input type="text" id="street-textbox" placeholder="Street" required />
+            <input type="text" id="nr-textbox" class="small" placeholder="Nr" />
+            <input type="text" id="floor-textbox" class="small" placeholder="Floor" />
+            <input type="text" id="ap-nr-textbox" class="small" placeholder="Ap Nr" />
+        </p>
+        <p>
+            <input type="color" id="phone-number-textbox" placeholder="Phone Number" />
+            <input type="text" id="password-textbox" placeholder="Your Password" />
+            <select name="size" autofocus required>
+                <option value="none" selected="selected">Aunt Panties' Size</option>
+                <option value="l">L</option>
+                <option value="s">S</option>
+                <option value="m">M</option>
+                <option value="xl">XL</option>
+            </select>
+        </p>
+        <p>
+            <label>More Personal Information</label>
+            <textarea></textarea>
+        </p>
+
+    </fieldset>
+
+    <div class="buttons">
+        <button type="reset" id="reset">Clear Form</button>
+        <button type="submit" id="reg-submit">Register</button>
+    </div>
+</form>
+</body>
+</html>

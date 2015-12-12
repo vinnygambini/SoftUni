@@ -1,0 +1,5 @@
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\10. Join Lists\bin\Debug\_10.Join_Lists.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\10. Join Lists\bin\Debug\_10.Join_Lists.pdb
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\10. Join Lists\obj\Debug\10. JoinLists.csprojResolveAssemblyReference.cache
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\10. Join Lists\obj\Debug\_10.Join_Lists.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\10. Join Lists\obj\Debug\_10.Join_Lists.pdb

@@ -1,0 +1,113 @@
+﻿@import url('reset-html.css');
+
+html {
+    background-color:#eeeeee;
+    font-family:Tahoma, Arial,sans-serif;
+}
+
+h1 {
+	color: #234465;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+p{
+	width:100%;   
+	padding:1em;  
+	font-size: 12px;
+}
+
+form {
+	float: left;
+	width: 300px;
+	height: 210px;
+	padding: 8px;
+}
+
+form label {
+	margin: 5px;
+	float: left;
+	color: #fff;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+form input[type="text"], form input[type="password"] {
+	float: left;
+	width: 290px;
+	height: 24px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+form input[type="submit"] {
+	float: right;
+	width: 140px;
+	height: 30px;
+	text-align: center;
+	vertical-align: middle;
+	margin: 5px;
+	margin-right: 0;
+	background-color: #eee;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	text-decoration: none;
+	cursor: pointer;
+	border: solid;
+	border-width: 2px;
+}
+
+#register-button {
+	background-color: #eee;
+	color: ##234465;
+	border-color: #234465;
+}
+
+.register-message {
+	color: #906666;
+}
+
+.register-message-2 {
+	color: #234465;
+}
+
+div.log {
+	width: 100%;
+	display: block;
+	float: left;
+}
+
+.log-form {
+	background-color: #234465;
+}
+
+	.log-form input[type="text"], .log-form input[type="password"] {
+		margin-left: 0;
+		width: 295px;
+	}
+	
+	.log-form  input[type=checkbox]{
+		margin-left:0;
+		float: left;
+	}
+	
+	.log-form #login-button {
+		background-color: #234465;
+		color: #fff;
+		border-color: orange;
+	}
+	
+	.log-form a {
+		color: #fff;
+		float: right;
+		font-size: 10px;
+		padding-right: 10px;
+		margin-right: 0px;
+	}
+	
+	.log-form  a:hover{
+		color:orange;
+	}

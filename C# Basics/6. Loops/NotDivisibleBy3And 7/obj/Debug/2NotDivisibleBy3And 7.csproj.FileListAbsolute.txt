@@ -1,0 +1,5 @@
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NotDivisibleBy3And 7\bin\Debug\NotDivisibleBy3And 7.exe.config
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NotDivisibleBy3And 7\bin\Debug\NotDivisibleBy3And 7.exe
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NotDivisibleBy3And 7\bin\Debug\NotDivisibleBy3And 7.pdb
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NotDivisibleBy3And 7\obj\Debug\NotDivisibleBy3And 7.exe
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NotDivisibleBy3And 7\obj\Debug\NotDivisibleBy3And 7.pdb

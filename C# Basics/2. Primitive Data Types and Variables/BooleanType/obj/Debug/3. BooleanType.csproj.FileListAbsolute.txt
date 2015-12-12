@@ -1,0 +1,4 @@
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\BooleanType\bin\Debug\BooleanType.exe
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\BooleanType\bin\Debug\BooleanType.pdb
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\BooleanType\obj\Debug\BooleanType.exe
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\BooleanType\obj\Debug\BooleanType.pdb

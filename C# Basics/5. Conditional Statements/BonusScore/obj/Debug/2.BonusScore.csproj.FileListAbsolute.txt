@@ -1,0 +1,6 @@
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\BonusScore\obj\Debug\2.BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\BonusScore\obj\Debug\BonusScore.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\CheckAPlayCard\bin\Debug\CheckAPlayCard.exe.config
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\CheckAPlayCard\bin\Debug\CheckAPlayCard.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\CheckAPlayCard\bin\Debug\CheckAPlayCard.pdb
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\CheckAPlayCard\obj\Debug\CheckAPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\CheckAPlayCard\obj\Debug\CheckAPlayCard.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\Conditional-Statement\CheckAPlayCard\obj\Debug\CheckAPlayCard.pdb

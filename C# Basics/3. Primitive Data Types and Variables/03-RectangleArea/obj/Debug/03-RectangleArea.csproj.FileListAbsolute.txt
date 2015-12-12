@@ -1,0 +1,6 @@
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\03-RectangleArea\bin\Debug\03-RectangleArea.exe.config
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\03-RectangleArea\bin\Debug\03-RectangleArea.exe
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\03-RectangleArea\bin\Debug\03-RectangleArea.pdb
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\03-RectangleArea\obj\Debug\03-RectangleArea.csprojResolveAssemblyReference.cache
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\03-RectangleArea\obj\Debug\03-RectangleArea.exe
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\03-RectangleArea\obj\Debug\03-RectangleArea.pdb

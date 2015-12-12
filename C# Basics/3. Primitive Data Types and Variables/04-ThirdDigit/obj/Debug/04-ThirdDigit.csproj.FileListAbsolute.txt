@@ -1,0 +1,6 @@
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\04-ThirdDigit\bin\Debug\04-ThirdDigit.exe.config
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\04-ThirdDigit\bin\Debug\04-ThirdDigit.exe
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\04-ThirdDigit\bin\Debug\04-ThirdDigit.pdb
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\04-ThirdDigit\obj\Debug\04-ThirdDigit.csprojResolveAssemblyReference.cache
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\04-ThirdDigit\obj\Debug\04-ThirdDigit.exe
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\04-ThirdDigit\obj\Debug\04-ThirdDigit.pdb

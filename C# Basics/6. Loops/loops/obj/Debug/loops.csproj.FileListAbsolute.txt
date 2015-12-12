@@ -1,0 +1,6 @@
+c:\users\gambiny\documents\visual studio 2012\Projects\loops\loops\bin\Debug\loops.exe.config
+c:\users\gambiny\documents\visual studio 2012\Projects\loops\loops\bin\Debug\loops.exe
+c:\users\gambiny\documents\visual studio 2012\Projects\loops\loops\bin\Debug\loops.pdb
+c:\users\gambiny\documents\visual studio 2012\Projects\loops\loops\obj\Debug\loops.csprojResolveAssemblyReference.cache
+c:\users\gambiny\documents\visual studio 2012\Projects\loops\loops\obj\Debug\loops.exe
+c:\users\gambiny\documents\visual studio 2012\Projects\loops\loops\obj\Debug\loops.pdb

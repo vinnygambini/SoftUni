@@ -1,0 +1,4 @@
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\12. CountOfNames\bin\Debug\_12.CountOfNames.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\12. CountOfNames\bin\Debug\_12.CountOfNames.pdb
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\12. CountOfNames\obj\Debug\_12.CountOfNames.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\12. CountOfNames\obj\Debug\_12.CountOfNames.pdb

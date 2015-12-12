@@ -1,0 +1,5 @@
+1. set path = C:\Program Files\Java\jdk1.7.0_45\bin
+2. cd \
+2. javac 123.java
+3. dir
+4. SumTwoNumbers.class

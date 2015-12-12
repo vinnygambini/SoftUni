@@ -1,0 +1,6 @@
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\05-bit3\bin\Debug\05-bit3.exe.config
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\05-bit3\bin\Debug\05-bit3.exe
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\05-bit3\bin\Debug\05-bit3.pdb
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\05-bit3\obj\Debug\05-bit3.csprojResolveAssemblyReference.cache
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\05-bit3\obj\Debug\05-bit3.exe
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\05-bit3\obj\Debug\05-bit3.pdb

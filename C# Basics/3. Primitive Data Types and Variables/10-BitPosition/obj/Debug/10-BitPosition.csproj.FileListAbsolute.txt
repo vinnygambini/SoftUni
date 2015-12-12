@@ -1,0 +1,6 @@
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\10-BitPosition\bin\Debug\10-BitPosition.exe.config
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\10-BitPosition\bin\Debug\10-BitPosition.exe
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\10-BitPosition\bin\Debug\10-BitPosition.pdb
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\10-BitPosition\obj\Debug\10-BitPosition.csprojResolveAssemblyReference.cache
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\10-BitPosition\obj\Debug\10-BitPosition.exe
+C:\Users\nzhul\Documents\Visual Studio 2012\Projects\TelerikAcademy\CSharpPartOne\3.Operators-Expressions-and-Statements\10-BitPosition\obj\Debug\10-BitPosition.pdb

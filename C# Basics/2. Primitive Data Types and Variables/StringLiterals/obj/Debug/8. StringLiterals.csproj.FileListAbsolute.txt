@@ -1,0 +1,4 @@
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\StringLiterals\bin\Debug\StringLiterals.exe
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\StringLiterals\bin\Debug\StringLiterals.pdb
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\StringLiterals\obj\Debug\StringLiterals.exe
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\StringLiterals\obj\Debug\StringLiterals.pdb

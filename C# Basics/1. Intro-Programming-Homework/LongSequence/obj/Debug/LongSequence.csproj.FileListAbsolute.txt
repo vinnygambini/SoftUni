@@ -1,0 +1,5 @@
+D:\SoftUni Course\2.Въведение в програмирането\Homework\LongSequence\bin\Debug\LongSequence.exe.config
+D:\SoftUni Course\2.Въведение в програмирането\Homework\LongSequence\bin\Debug\LongSequence.exe
+D:\SoftUni Course\2.Въведение в програмирането\Homework\LongSequence\bin\Debug\LongSequence.pdb
+D:\SoftUni Course\2.Въведение в програмирането\Homework\LongSequence\obj\Debug\LongSequence.exe
+D:\SoftUni Course\2.Въведение в програмирането\Homework\LongSequence\obj\Debug\LongSequence.pdb

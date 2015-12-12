@@ -1,0 +1,6 @@
+D:\SoftUni Course\2.Въведение в програмирането\Homework\AgeCalculation\bin\Debug\AgeCalculation.exe.config
+D:\SoftUni Course\2.Въведение в програмирането\Homework\AgeCalculation\bin\Debug\AgeCalculation.exe
+D:\SoftUni Course\2.Въведение в програмирането\Homework\AgeCalculation\bin\Debug\AgeCalculation.pdb
+D:\SoftUni Course\2.Въведение в програмирането\Homework\AgeCalculation\obj\Debug\AgeCalculation.csprojResolveAssemblyReference.cache
+D:\SoftUni Course\2.Въведение в програмирането\Homework\AgeCalculation\obj\Debug\AgeCalculation.exe
+D:\SoftUni Course\2.Въведение в програмирането\Homework\AgeCalculation\obj\Debug\AgeCalculation.pdb

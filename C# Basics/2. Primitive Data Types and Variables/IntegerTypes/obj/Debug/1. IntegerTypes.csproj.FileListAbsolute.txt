@@ -1,0 +1,7 @@
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\IntegerTypes\bin\Debug\IntegerTypes.exe
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\IntegerTypes\bin\Debug\IntegerTypes.pdb
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\IntegerTypes\obj\Debug\1. IntegerTypes.csprojResolveAssemblyReference.cache
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\IntegerTypes\obj\Debug\IntegerTypes.exe
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\IntegerTypes\obj\Debug\IntegerTypes.pdb
+D:\SoftUni Course\3.Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\IntegerTypes\obj\Debug\IntegerTypes.exe
+D:\SoftUni Course\3.Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\IntegerTypes\obj\Debug\IntegerTypes.pdb

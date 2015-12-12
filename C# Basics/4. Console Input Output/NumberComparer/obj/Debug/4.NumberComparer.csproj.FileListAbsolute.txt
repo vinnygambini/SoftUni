@@ -1,0 +1,6 @@
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumberComparer\obj\Debug\NumberComparer.pdb
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumberComparer\obj\Debug\4.NumberComparer.csprojResolveAssemblyReference.cache

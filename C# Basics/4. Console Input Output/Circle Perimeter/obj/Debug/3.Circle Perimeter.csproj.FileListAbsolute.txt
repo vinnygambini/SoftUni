@@ -1,0 +1,6 @@
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\Circle Perimeter\bin\Debug\Circle Perimeter.exe.config
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\Circle Perimeter\bin\Debug\Circle Perimeter.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\Circle Perimeter\bin\Debug\Circle Perimeter.pdb
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\Circle Perimeter\obj\Debug\Circle Perimeter.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\Circle Perimeter\obj\Debug\Circle Perimeter.pdb
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\Circle Perimeter\obj\Debug\3.Circle Perimeter.csprojResolveAssemblyReference.cache

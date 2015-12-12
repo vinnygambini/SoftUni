@@ -1,0 +1,5 @@
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.pdb
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\13. AverageLoadTimeCalculator\obj\Debug\13. AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\13. AverageLoadTimeCalculator\obj\Debug\_13.AverageLoadTimeCalculator.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\13. AverageLoadTimeCalculator\obj\Debug\_13.AverageLoadTimeCalculator.pdb

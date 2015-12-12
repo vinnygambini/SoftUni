@@ -1,0 +1,6 @@
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\FormattingNumbers\obj\Debug\5.FormattingNumbers.csprojResolveAssemblyReference.cache

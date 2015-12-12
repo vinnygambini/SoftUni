@@ -1,0 +1,6 @@
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NFactDevidedKFact\bin\Debug\NFactDevidedKFact.exe.config
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NFactDevidedKFact\bin\Debug\NFactDevidedKFact.exe
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NFactDevidedKFact\bin\Debug\NFactDevidedKFact.pdb
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NFactDevidedKFact\obj\Debug\6.NFactDevidedKFact.csprojResolveAssemblyReference.cache
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NFactDevidedKFact\obj\Debug\NFactDevidedKFact.exe
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NFactDevidedKFact\obj\Debug\NFactDevidedKFact.pdb

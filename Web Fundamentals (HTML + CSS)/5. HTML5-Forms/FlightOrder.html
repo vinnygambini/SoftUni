@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Problem 2. Flight Order</title>
+    <meta charset="UTF-8" />
+	 <link rel="stylesheet" href="styles/FlightOrder.css" />
+</head>
+<body>
+	<form>
+		<h1>Flight Order</h1>
+        <div class="row">
+            <div class="cell">
+					<label class="property">From</label>
+					<select name="from-airport">
+						<option value="non" selected="selected">Enter a city</option>
+						<option value="bgs">Burgas</option>
+						<option value="plv">Plovdiv</option>
+						<option value="var">Varna</option>
+						<option value="sof">Sofia</option>
+					</select>
+            </div>
+            <div class="cell">
+					<label class="property">To</label>
+					<select name="to-airport" >
+						<option value="non" selected="selected">Enter a city</option>
+						<option value="bgs">Burgas</option>
+						<option value="pdv">Plovdiv</option>
+						<option value="var">Varna</option>
+						<option value="sof">Sofia</option>>
+					</select>
+					<span class="direct-prefer">
+						<input type="checkbox" name="pref-directs" />
+						<label>Prefer directs</label>
+					</span>
+            </div>
+        </div>
+		  
+			<div class="row">
+				<div class="cell">
+					<label class="property">Depature Date</label>
+					<input type="date" id="departureDate" value="2014-06-09" required>
+				</div>
+				<div class="cell">
+					<label class="property">Time Interval</label>
+					<span class="direct-prefer">
+						<input type="time" id="departureTimeHours" value="00:00" required>
+						<input type="time" id="departureTimeMinutes" value="12:00" required>
+					</span>
+				</div> 
+			</div>
+
+			<div class="row">
+				<div class="cell">
+					<label class="property">Return Date</label>
+					<input type="date" id="returnDate" value="2014-06-09" required>
+				</div>
+				<div class="cell">
+					<label class="property">Time Interval</label>
+					<span class="direct-prefer">
+						<input type="time" id="returnTimeHours" value="00:00" required>
+						<input type="time" id="returnTimeMinutes" value="12:00" required>
+					</span>
+				</div> 
+			</div>
+		  
+        <div class="row">
+            <div class="cell">
+					<div class="pasangers">
+						<label class="three">12+</label>
+						<input type="text" id="passangers12" />
+					</div>
+					<div class="pasangers">
+						<label class="three">2-12</label>
+						<input type="text" name="passangers212" />
+					</div>
+					<div class="pasangers">
+						<label class="three">0-2</label>
+						<input type="text" name="passangers02" />
+					</div>
+            </div>
+            <div class="cell">
+					<label class="property">Choose class</label>
+					<select name="travel-caterogy" >
+						<option value="non">Cleaner</option>
+						<option value="ecn"  selected="selected">Economy</option>
+						<option value="bsn">Business</option>
+					</select>
+            </div>
+			</div>
+		
+			<div class="row">
+				<div class="cell-full">
+					<input type="submit"></input>
+				</div>
+			</div>
+		</form>
+	</body>
+</html>

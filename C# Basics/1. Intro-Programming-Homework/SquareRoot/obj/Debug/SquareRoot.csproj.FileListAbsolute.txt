@@ -1,0 +1,6 @@
+D:\SoftUni Course\2.Въведение в програмирането\Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\SoftUni Course\2.Въведение в програмирането\Homework\SquareRoot\bin\Debug\SquareRoot.exe
+D:\SoftUni Course\2.Въведение в програмирането\Homework\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\SoftUni Course\2.Въведение в програмирането\Homework\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+D:\SoftUni Course\2.Въведение в програмирането\Homework\SquareRoot\obj\Debug\SquareRoot.exe
+D:\SoftUni Course\2.Въведение в програмирането\Homework\SquareRoot\obj\Debug\SquareRoot.pdb

@@ -1,0 +1,4 @@
+D:\Visual studio 2013 projects\Loops\AdvancedTopics\5. SortingNumbers\bin\Debug\_5.SortingNumbers.exe
+D:\Visual studio 2013 projects\Loops\AdvancedTopics\5. SortingNumbers\bin\Debug\_5.SortingNumbers.pdb
+D:\Visual studio 2013 projects\Loops\AdvancedTopics\5. SortingNumbers\obj\Debug\_5.SortingNumbers.exe
+D:\Visual studio 2013 projects\Loops\AdvancedTopics\5. SortingNumbers\obj\Debug\_5.SortingNumbers.pdb

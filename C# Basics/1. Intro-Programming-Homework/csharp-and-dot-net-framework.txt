@@ -1,0 +1,15 @@
+Language comparison[edit]
+
+Though C# and VB.NET are syntactically very different, that is where the differences mostly end. Microsoft developed both of these languages to be part of the same .NET Framework development platform. They are both developed, managed, and supported by the same language development team at Microsoft.[5] They compile to the same intermediate language (IL), which runs against the same .NET Framework runtime libraries.[6] Although there are some differences in the programming constructs (discussed further below), their differences are primarily syntactic and, assuming one avoids the Visual Basic "Compatibility" libraries provided by Microsoft to aid conversion from VB6, almost every command in VB has an equivalent command in C# and vice versa. Lastly, both languages reference the same Base Classes of the .NET Framework to extend their functionality. As a result, with few exceptions, a program written in either language can be run through a simple syntax converter to translate to the other. There are many open source and commercially available products for this.
+
+
+Development environment
+Visual Studio provides minor differences in the development environment for C# and VB.Net. With each subsequent release of Visual Studio, the differences between development environments for these languages have been reduced. For instance early versions of Visual Studio had poor support for Intellisense in C# compared to Visual Basic .NET, and did not offer background compilation for C#.[7] Currently, the main differences in the development environments are additional features for Visual Basic .NET that originated in VB6, including:
+
+The default namespace is hidden (but can be disabled)
+Certain project files are hidden (the user can show them)
+The auto-generated My.* namespaces contain many commonly used shortcuts brought over from VB6, such as methods for operating on the registry and application configuration file
+
+Background compilation is a feature of the Visual Studio IDE whereby code is compiled as it is written by the programmer with the purpose of identifying compilation errors without requiring the solution to be built. This feature has been available for Visual Basic since .NET 1.1 and was present in early versions of Visual Studio for Visual Basic .NET. However, background compilation is a relatively new concept for Visual C# and is available with service pack 1 for Visual Studio 2008 Standard Edition and above. A distinct disadvantage for C# is that the Error List panel does not update until the solution is rebuilt. Refactoring large projects in C# is made more difficult by the need to frequently rebuild the solution in order to highlight compilation errors.[8] Such is not the case with Visual Basic because the Error List panel is synchronised with the background compiler.
+
+Background Compilation is less demanding on system resources and results in faster build cycles.[8] This is a particular advantage with large projects and can significantly reduce the time required to start debugging in the IDE.[8

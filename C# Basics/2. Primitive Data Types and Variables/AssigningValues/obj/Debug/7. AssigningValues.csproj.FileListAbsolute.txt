@@ -1,0 +1,4 @@
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\AssigningValues\bin\Debug\AssigningValues.exe
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\AssigningValues\bin\Debug\AssigningValues.pdb
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\AssigningValues\obj\Debug\AssigningValues.exe
+D:\SoftUni Course\Примитивни типове данни и променливи\2. Primitive-Data-Types-and-Variables-Demos\AssigningValues\obj\Debug\AssigningValues.pdb

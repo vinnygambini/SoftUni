@@ -1,0 +1,6 @@
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NumbersFrom1ToN\obj\Debug\1.NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+c:\Users\Gambiny\documents\visual studio 2012\Projects\loops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+C:\Users\Gambiny\Documents\Visual Studio 2012\Projects\4. Console-Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

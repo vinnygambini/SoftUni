@@ -1,0 +1,4 @@
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\11. CountOfLetters\bin\Debug\_11.CountOfLetters.pdb
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\11. CountOfLetters\obj\Debug\_11.CountOfLetters.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\11. CountOfLetters\obj\Debug\_11.CountOfLetters.pdb

@@ -1,0 +1,5 @@
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\16. CountingAWordInAText\bin\Debug\_16.CountingAWordInAText.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\16. CountingAWordInAText\bin\Debug\_16.CountingAWordInAText.pdb
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\16. CountingAWordInAText\obj\Debug\_16.CountingAWordInAText.exe
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\16. CountingAWordInAText\obj\Debug\_16.CountingAWordInAText.pdb
+D:\Visual studio 2013 projects\7. CSharp-Advanced-Topics-Homework\AdvancedTopics\16. CountingAWordInAText\obj\Debug\16. CountingAWordInAText.csprojResolveAssemblyReference.cache

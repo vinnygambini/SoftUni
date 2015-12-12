@@ -1,0 +1,183 @@
+﻿body {
+    font-family: Tahoma;
+}
+
+#matches {
+    width:100%;
+    background-color: #00923e;
+}
+
+table {
+    background-color: #00923e;
+    width: 100%;
+    -moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+    padding: 10px;
+}
+
+th, td {
+    border: 2px solid #000000;
+    border-collapse: collapse;
+}
+
+tr.odd-tr {
+    background-color: #ffffff;
+}
+
+tr.eved-tr {
+    background-color: #c8c8c8;
+}
+
+th {
+    background-color: #f8c711;
+    height: 2em;
+    font-size: 1.5em;
+}
+
+th#first-th {
+    width: 18%;
+    border-radius: 0.5em 0 0 0;
+    text-align: right;
+    padding-right: 0.3em;
+}
+
+th.result-group-th {
+    width: 8%;
+}
+
+th#second-country-th {
+    width: 18%;
+    text-align: left;
+    padding-left: 0.3em;
+}
+
+th#last-th {
+    -moz-border-radius: 0 0.5em 0 0;
+	-webkit-border-radius: 0 0.5em 0 0;
+    border-radius: 0 0.5em 0 0;
+    width: 48%;
+}
+
+td {
+    height: 2em;
+    vertical-align: middle;
+}
+
+td#last-left {
+    border-radius: 0 0 0 0.5em;
+    -moz-border-radius: 0 0 0 0.5em;
+    -webkit-border-radius: 0 0 0 0.5em;
+}
+
+td.first-country {
+    text-align: right;
+    padding-right: 0.3em;
+    width: 130px;
+}
+
+td.second-country {
+    text-align: left;
+    padding-left: 0.3em;
+    width: 130px;
+}
+
+td.result-group-td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+td#last-right {
+    border-radius: 0 0 0.5em 0;
+    -moz-border-radius: 0 0 0.5em 0;
+    -webkit-border-radius: 0 0 0.5em 0;
+    text-align: center;
+}
+
+td.forecast-td {
+    text-align: center;
+    width: 8%;
+}
+
+select {
+    height: 2em;
+}
+
+select:disabled {
+    background-color: #dcdcdc;
+}
+
+td.bet-td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+label#brasil-flag:after, label#spain-flag:after,
+label#italy-flag:after, label#argentina-flag:after,
+label#germany-flag:after {
+    vertical-align: middle;
+    padding-left: 3px;
+}
+
+label#brasil-flag:after {
+    content: url(../pictures/brasil.jpg);
+}
+
+label#spain-flag:after {
+    content: url(../pictures/spain.jpg);
+}
+
+label#italy-flag:after {
+    content: url(../pictures/italy.jpg);
+} 
+
+label#argentina-flag:after {
+    content: url(../pictures/argentina.jpg);
+}
+
+label#germany-flag:after {
+    content: url(../pictures/germany.jpg);
+}
+
+label#mexico-flag:before, label#netherlands-flag:before,
+label#england-flag:before, label#bosnia-flag:before,
+label#portugal-flag:before {
+    vertical-align: middle;
+    padding-right: 3px;
+}
+
+label#mexico-flag:before {
+    content: url(../pictures/mexico.jpg);
+}
+
+label#netherlands-flag:before {
+    content: url(../pictures/netherlands.jpg);
+}
+
+label#england-flag:before {
+    content: url(../pictures/england.jpg);
+}
+
+label#bosnia-flag:before {
+    content: url(../pictures/bosnia.jpg);
+}
+
+label#portugal-flag:before {
+    content: url(../pictures/portugal.jpg);
+}
+
+button:enabled {
+    border: none;
+    width:32px;
+    height: 32px;
+    background-image:url('../pictures/btn-disabled.png');
+    background-repeat:no-repeat;
+}
+
+button:disabled {
+    border: none;
+    width: 32px;
+    height: 32px;
+    background-image:url('../pictures/btn-enabled.png');
+    background-repeat:no-repeat;
+}
